@@ -1,4 +1,4 @@
-package intuit;
+package Solution1;
 
 import java.util.ArrayList;
 import java.util.Arrays;
